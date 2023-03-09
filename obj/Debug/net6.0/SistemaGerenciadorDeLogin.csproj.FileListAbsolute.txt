@@ -1,0 +1,15 @@
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\bin\Debug\net6.0\SistemaGerenciadorDeLogin.exe
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\bin\Debug\net6.0\SistemaGerenciadorDeLogin.deps.json
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\bin\Debug\net6.0\SistemaGerenciadorDeLogin.runtimeconfig.json
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\bin\Debug\net6.0\SistemaGerenciadorDeLogin.dll
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\bin\Debug\net6.0\SistemaGerenciadorDeLogin.pdb
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\SistemaGerenciadorDeLogin.csproj.AssemblyReference.cache
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\SistemaGerenciadorDeLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\SistemaGerenciadorDeLogin.AssemblyInfoInputs.cache
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\SistemaGerenciadorDeLogin.AssemblyInfo.cs
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\SistemaGerenciadorDeLogin.csproj.CoreCompileInputs.cache
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\SistemaGerenciadorDeLogin.dll
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\refint\SistemaGerenciadorDeLogin.dll
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\SistemaGerenciadorDeLogin.pdb
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\SistemaGerenciadorDeLogin.genruntimeconfig.cache
+C:\Users\evert\OneDrive\Documentos\Projetos_estudos\Projetos_POO\SistemaGerenciadorDeLogin\SistemaGerenciadorDeLogin\obj\Debug\net6.0\ref\SistemaGerenciadorDeLogin.dll
